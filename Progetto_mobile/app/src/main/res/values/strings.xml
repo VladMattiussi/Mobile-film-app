@@ -1,0 +1,14 @@
+<resources>
+    <string name="appName">Film Review</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="genre">Genre</string>
+    <string name="score">Score</string>
+    <string name="back">back</string>
+    <string name="confirm">confirm</string>
+    <string name="YourReview">Your Review</string>
+    <string name="YourScore">Your Score(1-10)</string>
+    <string name="Synopsis">Synopsis</string>
+    <string name="NewReview">Add new Review</string>
+    <string name="Sort">Sort</string>
+
+</resources>

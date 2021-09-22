@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Recensioni Film</string>
+    <string name="genre">Genere</string>
+    <string name="score">Voto</string>
+    <string name="back">Indietro</string>
+    <string name="confirm">Conferma</string>
+    <string name="YourReview">La tua recensione</string>
+    <string name="YourScore">Il tuo voto(1-10)</string>
+    <string name="Synopsis">Trama</string>
+    <string name="NewReview">Aggiungi recensione</string>
+    <string name="Sort">Ordina</string>
+</resources>
